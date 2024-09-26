@@ -1,4 +1,5 @@
 Brasileiro de 25 Anos,
 Pós-graduando em Ciência de Dados,
 Católico,
-apaixonado por Automobilismo e bem caseiro.
+caseiro,
+e apaixonado por Automobilismo e meu SPFC.
